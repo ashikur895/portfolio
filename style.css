@@ -14,3 +14,15 @@ padding: 1%;}
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 }
+.link{
+    text-decoration: none;
+    background-color: rgb(182, 140, 210);padding: 10px 20px;border-radius: 5px;background-image:linear-gradient(rgb(182, 140, 210) white); color: wheat ; font-weight: 700px;
+
+}
+.width{
+    width: 50%; padding: 25px;
+
+}
+.width img{width:80%;}
+.middle{background-image: url(images/dream-bg.png);background-repeat: no-repeat;background-position: right;}
+    
