@@ -5,7 +5,7 @@ body{
 h1{font-size: 50px; color:springgreen ;}
 .orange-color{color: orange;}
 .sky-color{color: skyblue;}
-section{display: flex;}
+.flexiable-container{display: flex;}
 .half-width{width: 50%;
 padding: 1%;}
 .half-width img{width: 100%;}
@@ -25,4 +25,39 @@ padding: 1%;}
 }
 .width img{width:80%;}
 .middle{background-image: url(images/dream-bg.png);background-repeat: no-repeat;background-position: right;}
+
+
+.experience{ 
+    color: slateblue;font-size: 50px;
+}
+.a  {color: black;}
+.c {color: black;}
+.b  {color: orangered;}
+.d {color: orangered;}
+.half-width1{
+    box-shadow: 10px 10px 40px gray;
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 40px;
+    padding-bottom: 50px;
+    border-radius: 10px;
+    
+}
+h2{font-size: 40px;}
+.img{background-image: url(images/exp-bg.png);
+background-repeat: no-repeat;
+background-position: left;
+}
+#web{border-left:10px solid ;
+border-image: linear-gradient(blue ,cyan);
+border-image-slice: 1;}
+#web-dev{
+    border-left:10px solid ;
+border-image: linear-gradient(salmon ,tomato);
+border-image-slice: 1;
+}
+footer{
+    text-align: center;
+}
     
